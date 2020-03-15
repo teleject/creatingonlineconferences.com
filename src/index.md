@@ -1,10 +1,10 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: 'Get the step-by-step plans to build a successful online event. '
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+We have produced hundreds of online events in addition to numerous in-person conferences. We've honed my process for producing online events from scratch. We would love to share our knowledge with you.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Are you ready to figure out how to run a successful online event? 
