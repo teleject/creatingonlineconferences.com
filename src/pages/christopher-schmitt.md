@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: About Us
-permalink: /about/
+permalink: /about/index.html
 ---
 
 ## Ari Stiles
