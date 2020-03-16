@@ -6,13 +6,9 @@
       "external": false
     },
     {
-      "text": "Ari Stiles",
-      "url": "/ari-stiles/",
-      "external": true
-    },
-    {
-      "text": "Christopher Schmitt",
-      "url": "/christopher-schmitt/"
+      "text": "About Us",
+      "url": "/about/",
+      "external": false
     }
   ]
 }
