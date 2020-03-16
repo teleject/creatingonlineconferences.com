@@ -3,7 +3,8 @@ layout: layouts/page.njk
 title: About Us
 permalink: /about/index.html
 ---
-![Ari Stiles and Christopher Schmitt hosting an online event in their studio](images/ari-stiles-and-christopher-schmitt.jpg)
+![Ari Stiles and Christopher Schmitt hosting an online event in their studio](/images/ari-stiles-and-christopher-schmitt.jpg)
+
 
 ## Ari Stiles
 
