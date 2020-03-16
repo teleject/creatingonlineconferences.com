@@ -1,14 +1,14 @@
 ---
 layout: layouts/page.njk
 title: About Us
-permalink: /about/
+permalink: /about/index.html
 ---
+![Ari Stiles and Christopher Schmitt hosting an online event in their studio](images/ari-stiles-and-christopher-schmitt.jpg)
 
 ## Ari Stiles
 
+## Christopher Schmitt
 
-
-## Christopher Schmitt 
 Christopher Schmitt is an award-winning web designer who has been working in the medium for over twenty years. 
 
 He has a Masters in Communication for Interactive and New Communication Technologies, and is the author of many books including <cite>CSS Cookbook</cite> and <cite>Designing Web and Mobile Graphics</cite>. 
