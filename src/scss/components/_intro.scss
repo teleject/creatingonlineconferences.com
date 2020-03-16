@@ -1,6 +1,6 @@
 .intro {
   background: var(--color-theme-highlight-block);
-  background-image: linear-gradient(to right, rgb(255, 255, 255), var(--color-theme-highlight-block));
+  background-image: linear-gradient(to left, rgb(255, 255, 255), var(--color-theme-highlight-block));
   clip-path: polygon(0 0, 100% 0, 100% calc( 100% - 2.5em ), 0% 100%);
   
   &__summary {
