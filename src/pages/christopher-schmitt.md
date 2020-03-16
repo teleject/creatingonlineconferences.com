@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
-title: Christopher Schmitt
-permalink: /christopher-schmitt/
+title: About Us
+permalink: /about/
 ---
 Christopher Schmitt is an award-winning web designer who has been working in the medium for over twenty years. 
 
