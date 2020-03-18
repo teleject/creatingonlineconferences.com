@@ -4,9 +4,9 @@ title: About Us
 permalink: /about/index.html
 ---
 
-[Ari Stiles](#heading-ari-stiles) and [Christopher Schmitt](#heading-christopher-schmitt) have produced online events (along with on-site events) for close to a decade.
+[Christopher Schmitt](#heading-christopher-schmitt) has produced online events (along with on-site events) for close to a decade.
 
-We run technically sound experiences while trying to bridge the digital gap to create engaging experiences for speakers to shine, audiences to learn, and sponsors to return.
+When running events, I aim to bridge the digital distances to create engaging experiences for speakers to shine, audiences to learn, and sponsors to return.
 
 In short, we loved online event production before it was necessary.
 
@@ -21,12 +21,6 @@ Online events are:
 And now they are...
 
 - **A Safe Alternative**. Everyone can participate in a shared experience while still under quarantine.
-
-## Ari Stiles
-
-**Ari Stiles** manages book production and other print projects for Smashing Media. Until very recently, she was an awesome conference organizer. Ari uses her penchant for design, writing, research, and organization to foster meaningful communication and create sustainable work spaces.
-
-Previously, she worked at Environments for Humans, SXSW Interactive, University of Texas at Austin.
 
 ## Christopher Schmitt
 
