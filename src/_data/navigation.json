@@ -9,6 +9,11 @@
       "text": "About Us",
       "url": "/about/",
       "external": false
+    },
+    {
+      "text": "Contact Us",
+      "url": "/contact/",
+      "external": false
     }
   ]
 }
