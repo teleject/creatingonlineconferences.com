@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact/index.html
 ---
 
-Our you’re an event organizer and want some inisght n how to run an event? A speaker that wants to know what tips to put on an online presentation? Drop us a line
+Our you’re an event organizer and want some inisght into how to run an event? A speaker that wants to know what tips to put on an online presentation? Drop us a line
 
 <form name="contact" method="POST" data-netlify="true">
   <p>
