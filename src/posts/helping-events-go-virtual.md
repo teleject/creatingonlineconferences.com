@@ -6,9 +6,9 @@ tags:
   - news
 ---
 
-Several conferences have contacted [Ari Stiles](https://twitter.com/ari4nne) and I over the past couple of weeks. We used to run online event for close to a decade.
+Since we used to run online event for close to a decade, several conference organizers and friends have contacted [Ari Stiles](https://twitter.com/ari4nne) and I over the past couple of weeks for insights.
 
-Many are having to move into the online space and do it quickly because of worldwide quarantine measures. We realized we were saying a lot of the same things in these meetings, so we thought maybe we should share what we know online in the coming days and weeks.
+Many organizers are finding the need to move into the online space and do it quickly because of world-wide quarantine measures. We realized we were saying a lot of the same things in these meetings, so we thought maybe we should share what we know online in the coming days and weeks.
 
 ## Starting a Blog
 
