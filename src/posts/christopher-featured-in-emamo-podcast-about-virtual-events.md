@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Christopher Featured in Emamo Podcast about Virtual Events
-socialImage: '/images/emamo-og-image.jpg'
+socialImage: 'https://OnlineEventBlog.com/images/emamo-og-image.jpg'
 date: 2020-03-16T00:09:31.824Z
 tags:
   - podcasts
