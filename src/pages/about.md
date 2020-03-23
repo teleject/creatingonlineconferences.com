@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: About Us
+title: About
 permalink: /about/index.html
 ---
 

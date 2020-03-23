@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Contact Us
+title: Contact
 permalink: /contact/index.html
 ---
 
