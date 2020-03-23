@@ -8,7 +8,7 @@ permalink: /about/index.html
 
 When running events, I aim to bridge the digital distances to create engaging experiences for speakers to shine, audiences to learn, and sponsors to return.
 
-In short, we loved online event production before it was necessary.
+In short, I loved online event production before it was necessary.
 
 ## Passionate About Online Events
 
