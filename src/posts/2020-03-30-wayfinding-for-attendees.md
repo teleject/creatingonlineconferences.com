@@ -6,8 +6,8 @@ permalink: "/wayfinding-for-virtual-attendees/"
 socialImage: 'https://OnlineEventBlog.com/images/emamo-og-image.jpg'
 date: 2020-03-30T00:09:31.824Z
 tags:
-  - caption
-  - accessibility
+  - attendee
+  - ux
 ---
 
 One aspect where an on-site conference is similar to that of a virtual event is wayfinding. 
