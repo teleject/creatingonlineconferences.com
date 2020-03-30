@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Dress Better than The Audience
 author: Christopher Schmitt
 permalink: "/dress-better-than-the-audience/"
-date: 2020-04-01T00:09:31.824Z
+date: 2020-04-01T12:11:23.456-06:00
 tags:
   - speaker
   - host
