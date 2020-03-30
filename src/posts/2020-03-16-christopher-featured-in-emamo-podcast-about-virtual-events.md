@@ -1,10 +1,11 @@
 ---
 layout: layouts/post.njk
 title: Christopher Featured in Emamo Podcast about Virtual Events
+author: Christopher Schmitt
 socialImage: 'https://OnlineEventBlog.com/images/emamo-og-image.jpg'
 date: 2020-03-16T00:09:31.824Z
 tags:
-  - podcasts
+  - podcast
 ---
 
 Recently, I had the pleasure of talking with [Taylor McKnight](https://twitter.com/gtmcknight), Founder of Emamo. Emamo is an event planning software that takes a lot of pain of organizing and managing conferences of all types.

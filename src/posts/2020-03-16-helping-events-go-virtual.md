@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Helping Events Go Virtual
+author: Christopher Schmitt
 date: 2020-03-13T00:57:00.000Z
 tags:
   - news
