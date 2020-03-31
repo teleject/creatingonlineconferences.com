@@ -1,8 +1,8 @@
 ---
 layout: home
 title: 'Building engaging online events that succeed'
-postsHeading: Latest posts
-archiveButtonText: See all posts
+postsHeading: The Latest Posts
+archiveButtonText: See All the Posts
 socialImage: 'https://OnlineEventBlog.com/images/onlineevent-og-image.png'
 ---
 
