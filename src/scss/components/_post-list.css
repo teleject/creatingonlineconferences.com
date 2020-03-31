@@ -1,0 +1,12 @@
+.post-list__item {
+  --flow-space: get-size(700);
+}
+
+.post-list__link, .post-list__link:visited {
+  color: var(--color-theme-primary);
+  text-decoration: underline;
+}
+
+.post-list__link:hover {
+  text-decoration: none;
+}
