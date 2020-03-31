@@ -1,7 +1,25 @@
+
+/* Emoji randomizer */
+$randomNumber: random(8);
+$list: 👨‍💻, 
+	👨🏻‍💻, 
+	👨🏽‍💻, 
+	👨🏿‍💻, 
+	👩‍💻, 
+	👩🏻‍💻, 
+	👩🏽‍💻, 
+	👩🏿‍💻;
+$emoji: nth($list, $randomNumber);
+
 .site-head {
   &__site-name {
     font-weight: 700;
     text-decoration: none;
     color: var(--color-text);
+    &:nth-of-type(2):before {
+      content: "#{$emoji}";
+      font-size: 3rem;
+    }
   }
+
 }

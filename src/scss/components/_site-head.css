@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* Emoji randomizer */
+.site-head__site-name {
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+.site-head__site-name:nth-of-type(2):before {
+  content: "👩🏽‍💻";
+  font-size: 3rem;
+}
