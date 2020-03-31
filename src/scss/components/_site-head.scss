@@ -19,6 +19,7 @@ $emoji: nth($list, $randomNumber);
     &:nth-of-type(2):before {
       content: "#{$emoji}";
       font-size: 3rem;
+      opacity: .8;
     }
   }
 
