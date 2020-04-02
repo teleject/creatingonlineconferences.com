@@ -13,6 +13,13 @@
     }
   }
 
+  .tags a {
+    border-radius: 3px;
+    border: 1px solid var(--color-dark);
+    border-top: unset;
+    border-left: unset;
+  }
+
   &__item {
     padding: get-size(300) 0;
     flex-shrink: 0;
