@@ -15,4 +15,10 @@
   &__credit {
     text-align: center;
   }
+
+  &__details h2 + p:before {
+    content: '#{$emoji} ';
+    font-size: 0.9rem;
+    opacity: 0.8;
+  }
 }
