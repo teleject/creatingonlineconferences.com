@@ -8,14 +8,20 @@ tags:
   - speaker
 ---
 
-One of the core tenets of conferences is education. Speakers are there to learn, but sometimes a 30 or 60-minute session is not enough time to answer everyone's questions. 
+One of the core tenets of conferences is education. Attendees are there to learn, but sometimes a 30 or 60-minute session is not enough time to answer everyone's questions. 
 
-When finished delivering your presentation, go the extra mile.
+When finished delivering your presentation, <strong>go the extra mile</strong> by:
 
-When times runs out on your speaking slot, continue to answer questions. 
+## Taking Questions 
+ 
+When you are done speaking, and there's still time left for your talk, take time for a Q&amp;A session.
 
-Depending on how your video platform is structured, the conference chat window will still be open for attendees to see after speaking. If so, let attendees know that you can answer questions there once you are done.
+## Sticking Around in the Chat
 
-After the event is over, make sure to let attendees that further discussion can take place on Twitter, Facebook, your blog post comments, or through email. Whatever method you feel comfortable with.
+Depending on how your video platform is structured, the conference chat window will still be open for attendees to see after speaking. If so, let attendees know that you can answer questions there once your presentation time is officially over.
 
-Your attendees appreciate it when you follow-up.
+## Reaching Out in Social Media, Email
+
+After the event is over, make sure to let attendees know that further discussion can take place on Twitter, Facebook, your blog post comments, or through email. Whatever method you feel comfortable with – make sure people can readily reach out to you.
+
+Your attendees appreciate will appreciate the follow-up, and organizers will see that you are willing to go the extra mile.
