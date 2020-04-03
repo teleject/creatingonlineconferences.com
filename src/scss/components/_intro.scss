@@ -5,7 +5,7 @@
   background-attachment: fixed;
   background-size: cover;
   clip-path: polygon(0 0, 100% 0, 100% calc( 100% - 2.5em ), 0% 100%);
-  
+
   &__summary {
     --flow-space: #{get-size(500)};
     font-size: get-size(500);
@@ -19,9 +19,17 @@
     }
   }
 
+  p {
+    color: var(--color-text);
+  }
+
+
+
   &__heading {
     max-width: 40ex;
     color: var(--color-bg);
+    text-shadow: 1px 1px var(--color-text);
+
 
     &--compact {
       max-width: 20ex;

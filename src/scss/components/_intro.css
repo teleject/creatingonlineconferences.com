@@ -21,9 +21,14 @@
   text-decoration: none;
 }
 
+.intro p {
+  color: var(--color-text);
+}
+
 .intro__heading {
   max-width: 40ex;
   color: var(--color-bg);
+  text-shadow: 1px 1px var(--color-text);
 }
 
 .intro__heading--compact {
