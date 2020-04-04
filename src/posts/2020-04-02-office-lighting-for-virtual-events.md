@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Do you have enough lighting in your office?
+title: Do You Have Enough Lighting in Your Office?
 author: Christopher Schmitt
 permalink: "/office-lighting-for-virtual-events/"
 date: 2020-04-02T12:11:23.456-06:00
