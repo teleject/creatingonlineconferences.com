@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: "What To Do After an Online Presentation?"
 author: Christopher Schmitt
 permalink: "/what-to-do-after-an-online-presentation/"
+socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
 date: 2020-04-03T12:11:23.456-06:00
 tags:
   - speaker
