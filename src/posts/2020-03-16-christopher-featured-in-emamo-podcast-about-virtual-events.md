@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
-title: Christopher Featured in Emamo Podcast about Virtual Events
+title: Christopher Schmitt Featured in Emamo Podcast about Virtual Events
 author: Christopher Schmitt
+permalink: "/christopher-schmitt-featured-in-emamo-podcast-about-virtual-events/"
 socialImage: 'https://OnlineEventBlog.com/images/emamo-og-image.jpg'
 date: 2020-03-16T00:09:31.824Z
 tags:
