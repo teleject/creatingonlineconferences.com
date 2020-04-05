@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Do You Have Enough Lighting in Your Office?
 author: Christopher Schmitt
 permalink: "/office-lighting-for-virtual-events/"
+socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
 date: 2020-04-02T12:11:23.456-06:00
 tags:
   - speaker

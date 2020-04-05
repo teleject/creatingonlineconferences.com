@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Designing for The In-Betweens
 author: Christopher Schmitt
 permalink: "/designing-for-in-betweens/"
+socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
 date: 2020-03-31T12:11:23.456-06:00
 tags:
   - attendee

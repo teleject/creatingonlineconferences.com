@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Wayfinding for Your Virtual Attendees
 author: Christopher Schmitt
 permalink: "/wayfinding-for-virtual-attendees/"
+socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
 date: 2020-03-30T12:11:23.456-06:00
 tags:
   - attendee

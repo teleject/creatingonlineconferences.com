@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: "What is the Best Length for a Virtual Conference?"
 author: Christopher Schmitt
 permalink: "/what-is-the-best-length-for-a-virtual-conference/"
+socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
 date: 2020-04-04T12:11:23.456-06:00
 tags:
   - organizer

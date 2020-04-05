@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Captioning for Your Online Event
 author: Christopher Schmitt
 permalink: "/live-captions-for-online-events/"
-socialImage: 'https://OnlineEventBlog.com/images/emamo-og-image.jpg'
+socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
 date: 2020-03-22T00:09:31.824Z
 tags:
   - caption

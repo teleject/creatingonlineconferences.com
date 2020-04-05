@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Dress Better than the Audience
 author: Christopher Schmitt
 permalink: '/dress-better-than-the-audience/'
+socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
 date: 2020-04-01T12:11:23.456-06:00
 tags:
   - speaker
