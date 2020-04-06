@@ -4,7 +4,7 @@ title: "Fun Backgrounds for Zoom Green Screen Backgrounds"
 author: Christopher Schmitt
 permalink: "/fun-backgrounds-for-zoom-green-screen-backgrounds/"
 socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
-date: 2020-04-05T12:11:23.456-06:00
+date: 2020-04-06T12:11:23.456-06:00
 tags:
   - speaker
 ---
