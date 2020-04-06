@@ -4,7 +4,7 @@ title: "How to Keep Audience Responses Focused"
 author: Christopher Schmitt
 permalink: "/how-to-keep-audience-responses-focused/"
 socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
-date: 2020-04-06T12:11:23.456-06:00
+date: 2020-04-10T12:11:23.456-06:00
 tags:
   - speaker
 ---
