@@ -21,7 +21,7 @@ One trick to keep your eyes looking at the camera is to put a photo of someone y
     <figcaption>Wiggle googly eye stickers attached to my webcam with eyebrows and mouth put in with Wite-Out&trade;.</figcaption>
 </figure>
 
-I've gone the route of placing googly eye stickers on my webcam. Then I used Wite-Out&trade;, and I've painted eyebrows and a mouth. With a friendly face on my webcam, I can act like I know where to direct my eyes when presenting.
+I've gone the route of placing [googly eye stickers](https://amzn.to/3aS0amq) on my webcam. Then I used Wite-Out&trade;, and I've painted eyebrows and a mouth. With a friendly face on my webcam, I can act like I know where to direct my eyes when presenting.
 
 This is a trick of **personification**. Personification occurs when an idea or an abstraction is represented as a person. An excellent example of this is all the characters in the [Disney Pixar _Cars_ franchise](https://cars.disney.com/).
 
