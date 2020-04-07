@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Fun Backgrounds for Zoom Green Screen Backgrounds"
+title: "Fun Backdrops for Zoom Green Screen Backgrounds"
 author: Christopher Schmitt
 permalink: "/fun-backgrounds-for-zoom-green-screen-backgrounds/"
 socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
