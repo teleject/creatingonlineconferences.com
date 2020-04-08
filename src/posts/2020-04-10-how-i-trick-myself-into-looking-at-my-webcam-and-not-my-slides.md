@@ -4,7 +4,7 @@ title: "How I Trick Myself into Looking at My Webcam and Not My Slides"
 author: Christopher Schmitt
 permalink: "/how-i-trick-myself-into-looking-at-my-webcam-and-not-my-slides/"
 socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
-date: 2020-04-09T12:11:23.456-06:00
+date: 2020-04-10T12:11:23.456-06:00
 tags:
   - organizer
   - speaker
