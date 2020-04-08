@@ -10,16 +10,16 @@ tags:
   - organizer
 ---
 
-Last time I [wrote about virtual backgrounds](/fun-backgrounds-for-zoom-green-screen-backgrounds/), it was about having fun with them. Thoses funny, pop-culture backgrounds can make meetings a little bit more interesting. However, what if one wants to present a more professional image when delivering a talk or hosting an online event – perhaps a cool or fun virtual background might not be 100% appropriate?
+Last time I [wrote about virtual backgrounds](/fun-backgrounds-for-zoom-green-screen-backgrounds/), it was about having fun with them. Those funny, pop-culture backgrounds can make meetings a little bit more interesting. However, what if one wants to present a more professional image when delivering a talk or hosting an online event – perhaps a cool or fun virtual background might not be 100% appropriate?
 
 Well, let's talk about the step and repeat banner!
+
+A **step and repeat banner** is usually for event photography or social media spots. They are printed with a repeating pattern so that brand logos or emblems are visible in photographs of the individuals standing in front of it. 
 
 <figure>
     <img src="/images/blog/2020-04-08-sxsw-step-and-repeat.jpg" alt="Step and repeat banner used at a conference." loading="lazy">
     <figcaption>Michael Fassbender in front of SXSW's step and repeat banner. (Photo Credit: Getty Images)</figcaption>
 </figure>
-
-A **step and repeat banner** is usually for event photography or social media spots. They are printed with a repeating pattern so that brand logos or emblems are visible in photographs of the individuals standing in front of it. 
 
 While more suited to photos, I think it's not too far of a stretch to bring it over to virtual backgrounds.
 
