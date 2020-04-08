@@ -4,7 +4,7 @@ title: "Free Add Your Own Logo Step and Repeat Logo Virtual Background Mockup"
 author: Christopher Schmitt
 permalink: "/free-add-your-own-logo-step-and-repeat-logo-virtual-background-mockup/"
 socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
-date: 2020-04-08T12:11:23.456-06:00
+date: 2020-04-08T06:11:23.456-06:00
 tags:
   - speaker
   - organizer
