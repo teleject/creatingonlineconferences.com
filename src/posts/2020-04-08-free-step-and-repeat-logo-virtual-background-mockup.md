@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: "Free Step and Repeat Logo Virtual Background Mockup"
+title: "Free Add Your Own Logo Step and Repeat Logo Virtual Background Mockup"
 author: Christopher Schmitt
-permalink: "/free-step-and-repeat-logo-virtual-background-mockup/"
+permalink: "/free-add-your-own-logo-step-and-repeat-logo-virtual-background-mockup/"
 socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
 date: 2020-04-08T12:11:23.456-06:00
 tags:
