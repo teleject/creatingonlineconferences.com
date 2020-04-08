@@ -4,7 +4,7 @@ title: "How to Keep Audience Responses Focused"
 author: Christopher Schmitt
 permalink: "/how-to-keep-audience-responses-focused/"
 socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
-date: 2020-04-10T12:11:23.456-06:00
+date: 2020-04-11T12:11:23.456-06:00
 tags:
   - speaker
 ---
@@ -29,4 +29,4 @@ For example:
 * "What is the best type of CSS positioning to use in this example: Absolute, Relative, Fixed, or Sticky?"
 * "Which color is one that would be good for a color scheme about food: Green, Blue, Purple?"
 
-Again, make sure there is a rising intonation at the end of the question -- and then say the list of potential answers clearly with distinct annunciation. 
+Again, make sure there is a rising intonation at the end of the question – and then say the list of potential answers clearly with distinct annunciation.
