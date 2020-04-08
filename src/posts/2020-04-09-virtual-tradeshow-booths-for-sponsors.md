@@ -4,7 +4,7 @@ title: "Virtual Tradeshow Booths for Sponsors"
 author: Christopher Schmitt
 permalink: "/virtual-tradeshow-booths-for-sponsors/"
 socialImage: "https://onlineeventblog.com/images/onlineevent-og-image.jpg"
-date: 2020-04-08T12:11:23.456-06:00
+date: 2020-04-09T12:11:23.456-06:00
 tags:
   - organizer
   - sponsor
